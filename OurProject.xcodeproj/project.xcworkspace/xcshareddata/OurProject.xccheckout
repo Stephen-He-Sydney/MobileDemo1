@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAAE67DF-BBC9-4FCF-A093-8597C628C0C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OurProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3228e08d-6b6a-4715-9535-8d25aa2e4e29</key>
+		<string>http://www.svnchina.com/svn/e_commerce</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OurProject/OurProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3228e08d-6b6a-4715-9535-8d25aa2e4e29</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3228e08d-6b6a-4715-9535-8d25aa2e4e29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3228e08d-6b6a-4715-9535-8d25aa2e4e29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>e_commerce</string>
+		</dict>
+	</array>
+</dict>
+</plist>
